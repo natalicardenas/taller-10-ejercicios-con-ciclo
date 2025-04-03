@@ -1,0 +1,89 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+Suma
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+5
+1
+1
+1
+5
+1
+1
+P
+6
+1
+4
+Suma
+8
+Suma + P
+7
+0
+1
+13
+Suma < 100000
+6
+1
+5
+Prom2
+8
+Suma / 6
+13
+6
+2
+2
+Re
+11
+Suma * 0.10
+5
+Total
+9
+Suma + Re
+6
+1
+4
+Prom
+9
+Total / 6
+13
+10
+7
+0
+1
+12
+Suma>=100000
+4
+1
+36
+' El total a pagar sera de: ', Total
+4
+1
+25
+' el promedio fue  ',Prom
+13
+4
+1
+35
+' El total a pagar sera de: ', Suma
+4
+1
+26
+' el promedio fue  ',Prom2
+13
+1
